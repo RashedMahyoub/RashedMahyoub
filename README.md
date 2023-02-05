@@ -10,11 +10,11 @@
 
 ```yaml
 name: Rashed Mahyoub
-located_in: Al Ula, Saudi Arabia
+located_in: Riyadh, Saudi Arabia
 from: Yemen
 education: ["Bachelor's in Computer Science"]
-job: Computer Programmer
-company: Maxabi
+job: Software engineer
+company: Resilience
 currently_learning: ["AI", "Cyber Security"]
 hobbies: ["Football", "Painting", "Coding"]
 
